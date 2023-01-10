@@ -564,6 +564,11 @@ p {
   background: #fff;
 }
 
+.contact-img {
+  width: 25%;
+  height: 30%;
+}
+
 .contact .info i {
   font-size: 20px;
   color: #c25734;
